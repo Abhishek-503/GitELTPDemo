@@ -1,6 +1,5 @@
 Hello World first program
 some changes done
 
-change : change added for bug1
-change : some bug fix is done
-change : fix done by team mate
+change added for bug1
+change - some bug fix is done
